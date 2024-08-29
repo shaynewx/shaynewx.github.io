@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshayne_s_gatsby_site=self.webpackChunkshayne_s_gatsby_site||[]).push([[480],{3116:function(e,t,n){n.r(t),n.d(t,{Head:function(){return l}});var s=n(6540),a=n(4810);const l=()=>s.createElement("title",null,"Resume");t.default=()=>s.createElement("main",null,s.createElement("h1",null,"Shayne's Resume"),s.createElement(a.N_,{to:"/"},"Back to Home"),s.createElement("iframe",{src:"/resume.pdf",width:"100%",height:"1200px"}))}}]);
+//# sourceMappingURL=component---src-pages-resume-js-3af03e70171bb0862813.js.map
