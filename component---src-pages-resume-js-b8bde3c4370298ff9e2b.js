@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshayne_s_gatsby_site=self.webpackChunkshayne_s_gatsby_site||[]).push([[480],{3116:function(e,t,s){s.r(t),s.d(t,{Head:function(){return a}});var n=s(6540);s(4810);const a=()=>n.createElement("title",null,"Resume");t.default=()=>n.createElement("main",null,n.createElement("iframe",{src:"/resume.pdf",width:"100%",height:"1200px"}))}}]);
+//# sourceMappingURL=component---src-pages-resume-js-b8bde3c4370298ff9e2b.js.map
